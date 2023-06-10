@@ -1,5 +1,6 @@
 ### Hola Mundo 👋🪐
 
+I write code that turns into things I imagined.
 
 <!--
 **JuanuMusic/juanumusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
